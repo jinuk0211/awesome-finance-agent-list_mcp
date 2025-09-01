@@ -14,7 +14,6 @@ AgentFi 및 onchain 자동화
 탈중앙화 금융(DeFi)에서는 에이전트가 "AgentFi"를 가능하게 한다. 이는 대출, 차입, 지출 최적화, 리스크 전략 등을 24/7 자동으로 수행하며, 사용자는 이러한 에이전트를 통해 가격 모니터링, 문서 요약, 알림 등 다양한 기능을 사용, 사용자가 직접 에이전트를 학습시킬 수 있는 플랫폼도 존재
 https://x.com/Ania131999/status/1961883608219529395?referrer=grok-com
 https://x.com/agentfiservice/status/1958341383347122559?referrer=grok-com
-https://x.com/mwa_ia/status/1961746301424701826?referrer=grok-com
 
 기업 및 기관 활용
 ------------------------------------
