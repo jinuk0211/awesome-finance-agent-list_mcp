@@ -39,15 +39,25 @@ https://x.com/PARASITECHEF/status/1960609345541988514?referrer=grok-com
 시장 데이터를 위한 MCP 서버
 ----------------------------
 개발자들은 실시간·과거 주가, 재무제표, 시장 뉴스, 옵션 분석 등을 제공하는 원격 MCP 서버를 구축하고 있다. Yahoo Finance, Financial Datasets, Alpha Vantage 등 API와 통합되며, GitHub에 MCP 서버가 공개되어 쉽게 찾을 수 있다. 예를 들어, SSE(Server-Sent Events)를 지원하는 주식 시장 MCP 서버는 Cursor, Claude와 같은 도구와 원활하게 연결된다.
+https://www.dailydoseofds.com/p/hands-on-building-an-mcp-powered-financial-analyst/
+https://www.reddit.com/r/mcp/comments/1kfpxo3/finance_tools_mcp_an_mcp_server_that_provides/
+https://www.pulsemcp.com/servers/financial-datasets
+https://x.com/virattt/status/1899959189201445329?referrer=grok-com
+https://x.com/nickbaumann_/status/1896680097073242258?referrer=grok-com
 
 은행 및 핀테크 혁신
 --------------------------------
  MCP는 은행에서 AI 통합을 단순화하여 대출 신청, 잔액 조회 등 대화형 어시스턴트를 가능하게 한다. 기존 REST API보다 풍부한 컨텍스트를 제공하며 "universal charger" 역할을 수행. 인도 핀테크 기업인 Zerodha, Razorpay는 금융 시스템과 AI 간 안전하고 실시간 상호작용을 위해 MCP 인프라를 구축하고 있다.
+https://www.codiste.com/mcp-protocol-in-banking-finance
+https://southstatecorrespondent.com/banker-to-banker/technology/mcps-in-banking-what-executives-need-to-know/
+https://x.com/chandrarsrikant/status/1943513603266744501?referrer=grok-com
 
 에이전트형 AI 및 기업 채택
 ---------------------------------
 MCP는 에이전트가 더 나은 의사결정을 내릴 수 있도록 메타데이터를 전송하며, integration friction을 줄이고, 사기 탐지나 자동 자문도 가능하게 한다. 금융 분야에서 에이전트가 MCP에 자체 코드를 작성하는 것이 중요하며, 비즈니스 앱의 결정론성(determinism)을 확보하고, governance, 개인정보 보호, 통합 API 필요성도 논의되고 있다. 
-
+https://x.com/TheoriqAI/status/1911153304891207777?referrer=grok-com
+https://x.com/truefoundry/status/1960810938040508653?referrer=grok-com
+https://x.com/kentcdodds/status/1960776575403876838?referrer=grok-com
 
 결론적으로, 금융 분야에서 에이전트와 MCP를 결합하면 개인용 어시스턴트에서 엔터프라이즈 프레임워크까지, 스마트하고 자동화된 시스템 구현이 가능하며, X에서는 오픈소스 혁신과 AI 기반 변화에 대한 논의가 활발하다.
 https://github.com/jinuk0211/awesome-finance-agent-list_mcp/blob/main/README.md
