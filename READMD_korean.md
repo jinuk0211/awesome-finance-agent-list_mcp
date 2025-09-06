@@ -68,14 +68,14 @@ https://github.com/jinuk0211/awesome-finance-agent-list_mcp/blob/main/README.md
 금융 분야에서의 AI 활용 사례
 
 📌 시장 트레이딩 제외 활용 사례
-
+-----------------------
 1. 사기 탐지 (Fraud Detection)
 
 거래 패턴을 실시간 분석해 비정상 소비·자금세탁 가능성을 탐지
 
 머신러닝 기반으로 과거 데이터 학습 → 의심 거래 자동 플래그
 👉 예시: ML-Finance-Projects
-
+-----------------------
 2. 신용 리스크 분석 및 점수화 (Credit Risk Scoring)
 
 신용 이력, 소셜 데이터, 온체인 기록 등을 활용해 부도 위험 예측
