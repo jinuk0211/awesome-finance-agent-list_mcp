@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/jinuk0211-awesome-finance-agent-list-mcp-badge.png)](https://mseep.ai/app/jinuk0211-awesome-finance-agent-list-mcp)
+
 Below, I’ll explore the MCP (Model Context Protocol) integrations in the finance domain based on the provided GitHub repositories and additional context from recent web sources. I’ll focus on the specific integrations offered by the listed MCP servers, their functionalities, and how they connect AI agents to financial systems. Each integration will be tied to the relevant GitHub repository where possible, and I’ll include details on setup, tools, and use cases.
 
 ### Overview of MCP Integrations in Finance
