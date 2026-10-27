@@ -235,6 +235,13 @@ The following integrations are derived from the GitHub repositories you provided
       - Follow individual server instructions for API keys and dependencies.[](https://www.one-fs.com/p/fintechs-next-ai-upgrade-why-mcp)
     - **Use Case Example**: An AI could automate trades on Zerodha’s platform.
 
+19. **Agent Payment Node (buyer-side payment runtime)**
+    - **GitHub URL**: https://github.com/nuanu-ai/agent-payment-node
+    - **Integration**: Local CLI and stdio MCP tools for x402 offer inspection, bounded payment preparation, operation status/receipts and recovery.
+    - **Setup**: Apple Silicon macOS and Node 24 only; `brew install nuanu-ai/tap/apn`, then `apn mcp config` and `apn mcp serve`.
+    - **Scope**: Payment execution tooling for AI agents, not a market-data API, broker, investment advisor or trading signal service.
+    - **Authority and cost**: Direct transfers and EVM x402 signing require foreground owner approval; Solana exact x402 can run within an owner-admitted policy. Software is free; network/provider fees are separate.
+
 ### Additional Insights from Web Sources
 - **Microsoft Dynamics 365 ERP MCP Server**:  
   - **Integration**: Connects to Dynamics 365 Finance and Supply Chain Management for tools like vendor lookup and financial operations.  
